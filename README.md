@@ -22,7 +22,9 @@ Unlike commercial AI tools, this app requires **no API keys**, runs **entirely o
 ## 🛠️ Requirements
 
 ○ Python 3.8+
+
 ○ At least 6 GB RAM (8 GB recommended)
+
 ○ Internet (only once to download model weights)
 
 ---
